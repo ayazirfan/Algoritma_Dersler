@@ -18,5 +18,6 @@ public class Ders08
         }
         return toplam;
     }
+    
 
 }
